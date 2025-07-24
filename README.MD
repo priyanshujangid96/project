@@ -4,7 +4,7 @@ This project is a simple QR code component built as part of a frontend challenge
 
 ### Links
 
-- Solution URL:   https://github.com/priyanshujangid96/project/edit/main/
+- Solution URL:  https://github.com/priyanshujangid96/project
 - Live Site URL:  https://priyanshujangid96.github.io/project/
 
 
