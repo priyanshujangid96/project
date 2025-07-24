@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ## Overview
 This project is a simple QR code component built as part of a frontend challenge. The goal was to create a visually appealing and responsive QR code card using modern web technologies. The component displays a QR code image along with a title and a short description, following best practices for layout and accessibility.
 
@@ -26,6 +20,4 @@ This project is a simple QR code component built as part of a frontend challenge
 
 ### What I learned
 i learned css grid properties and flexbox properties from this project .
-
-
 
